@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Header.qml</file>
+        <file>MyAlarm.qml</file>
+        <file>MyCornometer.qml</file>
+        <file>MyStopWatch.qml</file>
+        <file>MyWorldClock.qml</file>
+        <file>WorldClockListView.qml</file>
+    </qresource>
+</RCC>
